@@ -6,9 +6,8 @@ In case they're helpful.
 :toclevels: 99
 
 *Topics* . 
-[Markdown](#Markdown)
+[Markdown](#markdown)
 
-[#Markdown] . 
 ### Markdown . 
 https://www.markdowntutorial.com/ . 
 http://en.wikipedia.org/wiki/Markdown#Example . 
