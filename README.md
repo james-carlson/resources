@@ -1,10 +1,10 @@
-# resources
+# resources . 
 In case they're helpful.
 
-*Topics*
-Markdown[Markdown]
+*Topics* . 
+Markdown(#Markdown)
 
-[Markdown] . 
+[#Markdown] . 
 ### Markdown . 
 https://www.markdowntutorial.com/ . 
 http://en.wikipedia.org/wiki/Markdown#Example . 
