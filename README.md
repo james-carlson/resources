@@ -1,7 +1,7 @@
 # resources . 
 In case they're helpful.
 
-##*Topics*  
+## *Topics*  
 [Markdown](#markdown)
 
 ### Markdown  
