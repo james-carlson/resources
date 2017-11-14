@@ -2,7 +2,20 @@
 In case they're helpful.
 
 ## *Topics*  
+
+### JavaScript
+
+### React
+
+### Angular
+
+
+### *Other Stuff
 [Markdown](#markdown)
+
+
+
+
 
 ### Markdown  
 https://www.markdowntutorial.com/   
