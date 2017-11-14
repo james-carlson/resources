@@ -5,10 +5,10 @@ In case they're helpful.
 :toc-title:
 :toclevels: 99
 
-*Topics* . 
+*Topics*  
 [Markdown](#markdown)
 
-### Markdown . 
+### Markdown  
 https://www.markdowntutorial.com/ . 
 http://en.wikipedia.org/wiki/Markdown#Example . 
 http://spec.commonmark.org/dingus/ . 
