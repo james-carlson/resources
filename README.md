@@ -1,6 +1,10 @@
 # resources . 
 In case they're helpful.
 
+:toc: macro
+:toc-title:
+:toclevels: 99
+
 *Topics* . 
 [Markdown](#Markdown)
 
