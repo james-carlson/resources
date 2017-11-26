@@ -2,17 +2,7 @@
 In case they're helpful.
 
 ## *Topics*  
-
-### Code Environments
-[Code-Environments](#code-environments)
-### JavaScript
-
-### React
-
-### Angular
-
-
-### *Other Stuff
+[Code Environments](#code-environments)     
 [Markdown](#markdown)
 
 
