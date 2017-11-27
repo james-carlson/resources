@@ -3,7 +3,7 @@ In case they're helpful.
 
 ## *Topics*  
 [Code Environments](#code-environments)     
-[Markdown](#markdown)
+[Markdown](#markdown)  
 [Practice Problems](#practice-problems)
 
 ### Code Environments
