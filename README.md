@@ -19,5 +19,5 @@ http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-auth
 https://www.markdownguide.org  
 
 ### Practice Problems
-https://codewars.com/  
-https://codefights.com/
+[Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
+[CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
