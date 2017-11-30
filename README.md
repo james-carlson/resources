@@ -2,13 +2,18 @@
 In case they're helpful.
 
 ## *Topics*  
-[Code Environments](#code-environments)     
+[Code Environments](#code-environments)
+[Git](#git)
 [Markdown](#markdown)  
 [Practice Problems](#practice-problems)
 
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)
 
+### Git
+#### Commands
+##### Change URL of remote 
+<pre>git remote set url <em>https://url-of-repo</em></pre>
 
 ### Markdown  
 https://www.markdowntutorial.com/   
