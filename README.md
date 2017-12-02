@@ -2,10 +2,11 @@
 In case they're helpful.
 
 ## *Topics*  
-[Code Environments](#code-environments)
-[Git](#git)
-[Markdown](#markdown)  
-[Practice Problems](#practice-problems)
+* [Code Environments](#code-environments)  
+* [Git](#git)   
+* [Markdown](#markdown)  
+* [Practice Problems](#practice-problems)  
+* [React](#react)  
 
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)
@@ -26,3 +27,13 @@ https://www.markdownguide.org
 ### Practice Problems
 [Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
 [CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
+
+### React
+#### Development Environment
+##### Find what process is running the dev server at a specific port:
+If the dev server is running on port 3000:
+```
+lsof -i :3000
+Kill:
+kill -9 <PID>
+```
