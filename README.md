@@ -2,11 +2,18 @@
 In case they're helpful.
 
 ## *Topics*  
+* [Code Editors/IDEs](#code-editors)
 * [Code Environments](#code-environments)  
 * [Git](#git)   
 * [Markdown](#markdown)  
 * [Practice Problems](#practice-problems)  
 * [React](#react)  
+
+### Code Editors
+#### VS Code
+##### Display Preview of Markdown
+To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV).  
+Source: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)
