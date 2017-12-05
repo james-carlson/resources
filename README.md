@@ -15,8 +15,7 @@ In case they're helpful.
 * [Chrome Debugger for VS Code](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 ##### Display Preview of Markdown
-To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV).  
-Source: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
+To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV). ([Source](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview))
 
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)
