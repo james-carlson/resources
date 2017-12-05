@@ -43,6 +43,11 @@ https://www.markdownguide.org
 If the dev server is running on port 3000:
 ```
 lsof -i :3000
-Kill:
-kill -9 <PID>
 ```
+This should allow you to find the process ID (PID) of what is running on port 3000. To kill a process from command line:
+
+<pre>
+kill -9 <i>PID</i>
+</pre>
+
+
