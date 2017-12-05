@@ -12,6 +12,7 @@ In case they're helpful.
 ### Code Editors
 #### [VS Code](https://code.visualstudio.com/)
 * [JavaScript in VS Code](https://code.visualstudio.com/docs/languages/javascript#_automatic-type-acquisition)
+* [Chrome Debugger for VS Code](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 ##### Display Preview of Markdown
 To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV).  
