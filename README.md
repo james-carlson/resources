@@ -10,7 +10,9 @@ In case they're helpful.
 * [React](#react)  
 
 ### Code Editors
-#### VS Code
+#### [VS Code](https://code.visualstudio.com/)
+* [JavaScript in VS Code](https://code.visualstudio.com/docs/languages/javascript#_automatic-type-acquisition)
+
 ##### Display Preview of Markdown
 To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV).  
 Source: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
