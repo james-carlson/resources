@@ -18,6 +18,9 @@ In case they're helpful.
 ##### Display Preview of Markdown
 To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV). ([Source](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview))
 
+##### Open New Terminal With Keyboard
+`Ctrl` + `Shift` + `~`
+
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)
 
