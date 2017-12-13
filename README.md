@@ -53,10 +53,10 @@ lsof -i :3000
 ```
 This will produce some information like this: 
 ```
-COMMAND    PID         USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
-Google    7257 jamescarlson   93u  IPv4 0x84a0673da17998cf      0t0  TCP localhost:55054->localhost:hbci (ESTABLISHED)
-node      9614 jamescarlson   14u  IPv4 0x84a0673daafd4cdf      0t0  TCP *:hbci (LISTEN)
-node      9614 jamescarlson   31u  IPv4 0x84a0673daa95721f      0t0  TCP localhost:hbci->localhost:55054 (ESTABLISHED)
+COMMAND    PID         USER   FD   TYPE  SIZE/OFF NODE NAME
+Google    7257 jamescarlson   93u  IPv4       0t0  TCP localhost:55054->localhost:hbci (ESTABLISHED)
+node      9614 jamescarlson   14u  IPv4       0t0  TCP *:hbci (LISTEN)
+node      9614 jamescarlson   31u  IPv4       0t0  TCP localhost:hbci->localhost:55054 (ESTABLISHED)
 ```
 Find the process ID in the PID column for COMMAND of "node". To kill that process, type `kill -9` and then the PID (in the example above, `9614`). 
 
