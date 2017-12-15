@@ -3,13 +3,19 @@ In case they're helpful.
 
 ## *Topics*  
 * [Code Editors/IDEs](#code-editors)
-* [Code Environments](#code-environments)  
-* [Git](#git)   
+* [Code Environments](#code-environments)
+* [CSS](#css)
+* [Design](#design)
+* [Git](#git)
+* [HTML](#html)
 * [JavaScript](#javascript)
+* [Pay to learn](#pay-to-learn)
 * [Markdown](#markdown)  
 * [Node](#node)
 * [Practice Problems](#practice-problems)  
 * [React](#react)  
+* [SVG](#svg)
+* [Terminal](#terminal)
 
 ### Code Editors
 #### [VS Code](https://code.visualstudio.com/)
@@ -25,6 +31,23 @@ To switch between views, press ⇧⌘V in the editor. You can view the preview s
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)
 
+### CSS
+#### Flexbox
+http://geddski.teachable.com/p/flexbox-zombies  
+http://flexbox.help/
+
+#### Fonts
+https://fonts.google.com/
+
+### Design
+#### Gettting inspiration/ideas
+https://www.awwwards.com/
+
+### HTML
+#### Color code helps
+https://html-color-codes.info/
+https://html-color-codes.info/colors-from-image/ - Upload an image and get a color code by clicking on any part of it.
+
 ### Git
 #### Commands
 ##### Change URL of remote 
@@ -33,6 +56,12 @@ https://repl.it (Online REPL, compiler, and IDE)
 ### JavaScript
 #### 'this' in JavaScript
 http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
+
+### Pay to learn
+Resources that cost money (but may sometimes make content available for free). Sometimes paid courses are significantly higher quality than what's available for free. (Sometimes not.)
+
+https://egghead.io/
+
 
 ### Markdown  
 https://www.markdowntutorial.com/   
@@ -69,4 +98,8 @@ Find the process ID in the PID column for COMMAND of "node". To kill that proces
 kill -9 <i>PID</i>
 </pre>
 
+### SVG Images
+http://svgpocketguide.com/book/
 
+### Terminal 
+http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
