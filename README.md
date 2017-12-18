@@ -33,6 +33,7 @@ To switch between views, press ⇧⌘V in the editor. You can view the preview s
 
 ##### Time Savers
 ###### Macs
+* `Cmd ⌘` + `Shift ⇧ ` + `p` shows keyboard shortcuts.
 * Hold down option and arrow key to move an entire line up or down.  
 * Hold down option and click in multiple places to create multiple cursors.
 
