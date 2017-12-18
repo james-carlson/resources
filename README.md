@@ -22,11 +22,19 @@ In case they're helpful.
 * [JavaScript in VS Code](https://code.visualstudio.com/docs/languages/javascript#_automatic-type-acquisition)
 * [Chrome Debugger for VS Code](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
+##### Jump to variable definition
+Hold command (⌘) on Mac or control on Windows before clicking on a reference to a variable to jump to that variable's definition.
+
 ##### Display Preview of Markdown
 To switch between views, press ⇧⌘V in the editor. You can view the preview side-by-side (⌘KV). ([Source](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview))
 
 ##### Open New Terminal With Keyboard
 `Ctrl` + `Shift` + `~`
+
+##### Time Savers
+###### Macs
+* Hold down option and arrow key to move an entire line up or down.  
+* Hold down option and click in multiple places to create multiple cursors.
 
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)  
