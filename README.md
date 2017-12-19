@@ -16,7 +16,6 @@ In case they're helpful.
 * [Massive](#massive)
 * [Markdown](#markdown)  
 * [Node](#node)
-* [Practice Problems](#practice-problems)  
 * [React](#react) 
 * [Redux](#redux)
 * [Regex](#regex)
@@ -46,7 +45,7 @@ To switch between views, press ⇧⌘V in the editor. You can view the preview s
 
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)  
-http://www.pythontutor.com/visualize.html (Includes languages other than Python, including JavaScript. Allows you to visualize code execution and see the control flow.)
+http://www.pythontutor.com/visualize.html (Includes languages other than Python, including JavaScript. Allows you to visualize code execution and see the control flow.)  
 https://www.getpostman.com/
 
 ### CSS
@@ -58,7 +57,7 @@ http://flexbox.help/
 https://fonts.google.com/
 
 ### Debugging
-https://developers.google.com/web/tools/chrome-devtools/
+https://developers.google.com/web/tools/chrome-devtools/  
 https://developers.google.com/web/tools/chrome-devtools/javascript/
 ### Design
 #### Gettting inspiration/ideas
@@ -68,7 +67,7 @@ https://www.awwwards.com/
 
 ### HTML
 #### Color code helps
-https://html-color-codes.info/
+https://html-color-codes.info/  
 https://html-color-codes.info/colors-from-image/ - Upload an image and get a color code by clicking on any part of it.
 
 ### Git
@@ -80,10 +79,14 @@ https://html-color-codes.info/colors-from-image/ - Upload an image and get a col
 The `:` tells Vim to enter command mode, the `q` tells Vim to quit, and the `!` means you really mean it.
 
 ### Hosting
-https://zeit.co/docs
+https://zeit.co/docs  
 https://surge.sh/ - For front-end development
 
 ### JavaScript
+#### Practice Problems
+[Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
+[CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
+
 #### 'this' in JavaScript
 http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
 
@@ -99,14 +102,11 @@ http://johnmacfarlane.net/babelmark2/faq.html
 http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/  
 https://www.markdownguide.org
 
-### Massive(https://dmfay.github.io/massive-js/)
+### [Massive](https://dmfay.github.io/massive-js/)
 
 ### [Node](https://nodejs.org/en/)
 [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/#anatomy-of-an-http-transaction)
 
-### Practice Problems
-[Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
-[CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
 
 ### [React](https://reactjs.org/docs/hello-world.html)
 #### Development Environment
@@ -129,13 +129,13 @@ kill -9 <i>PID</i>
 </pre>
 
 ### [Redux](https://redux.js.org/)
-https://hackernoon.com/redux-for-dummies-867f7aff7a2f
-https://github.com/james-carlson/react-redux-review
-https://github.com/DevMountain/redux-drills
-https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
+[Redux for Dummies (article)](https://hackernoon.com/redux-for-dummies-867f7aff7a2f)  
+[React-Redux-Review (repo)](https://github.com/james-carlson/react-redux-review)  
+[DevMountain Redux Drills](https://github.com/DevMountain/redux-drills)  
+[A Dummy's Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
 ### Regex
 http://regexr.com/
-### SVG Images
+### SVG
 http://svgpocketguide.com/book/
 ### SQL
 https://www.sqlteaching.com/
