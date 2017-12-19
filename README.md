@@ -114,6 +114,7 @@ kill -9 <i>PID</i>
 
 ### Redux
 https://hackernoon.com/redux-for-dummies-867f7aff7a2f
+https://github.com/james-carlson/react-redux-review
 
 ### SVG Images
 http://svgpocketguide.com/book/
