@@ -54,13 +54,19 @@ http://geddski.teachable.com/p/flexbox-zombies
 http://flexbox.help/
 
 #### Fonts
-https://fonts.google.com/
+https://fonts.google.com/  
+https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/  
+#### Parallax
+http://scrollmagic.io/  
+
+#### Shapes
+https://css-tricks.com/examples/ShapesOfCSS/
 
 ### Debugging
 https://developers.google.com/web/tools/chrome-devtools/  
 https://developers.google.com/web/tools/chrome-devtools/javascript/
 ### Design
-#### Gettting inspiration/ideas
+#### Getting inspiration/ideas
 https://www.awwwards.com/
 
 ### [Express](https://expressjs.com/)
@@ -83,6 +89,8 @@ https://zeit.co/docs
 https://surge.sh/ - For front-end development
 
 ### JavaScript
+#### Reference
+
 #### Practice Problems
 [Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
 [CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
