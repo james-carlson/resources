@@ -13,7 +13,8 @@ In case they're helpful.
 * [Markdown](#markdown)  
 * [Node](#node)
 * [Practice Problems](#practice-problems)  
-* [React](#react)  
+* [React](#react) 
+* [Redux](#redux)
 * [SVG](#svg)
 * [Terminal](#terminal)
 
@@ -110,6 +111,9 @@ Find the process ID in the PID column for COMMAND of "node". To kill that proces
 <pre>
 kill -9 <i>PID</i>
 </pre>
+
+### Redux
+https://hackernoon.com/redux-for-dummies-867f7aff7a2f
 
 ### SVG Images
 http://svgpocketguide.com/book/
