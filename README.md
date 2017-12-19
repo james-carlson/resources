@@ -5,17 +5,23 @@ In case they're helpful.
 * [Code Editors/IDEs](#code-editors)
 * [Code Environments](#code-environments)
 * [CSS](#css)
+* [Debugging](#debugging)
 * [Design](#design)
+* [Express](#express)
 * [Git](#git)
 * [HTML](#html)
+* [Hosting](#hosting)
 * [JavaScript](#javascript)
 * [Pay to learn](#pay-to-learn)
+* [Massive](#massive)
 * [Markdown](#markdown)  
 * [Node](#node)
 * [Practice Problems](#practice-problems)  
 * [React](#react) 
 * [Redux](#redux)
+* [Regex](#regex)
 * [SVG](#svg)
+* [SQL](#sql)
 * [Terminal](#terminal)
 
 ### Code Editors
@@ -41,6 +47,7 @@ To switch between views, press ⇧⌘V in the editor. You can view the preview s
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)  
 http://www.pythontutor.com/visualize.html (Includes languages other than Python, including JavaScript. Allows you to visualize code execution and see the control flow.)
+https://www.getpostman.com/
 
 ### CSS
 #### Flexbox
@@ -50,9 +57,14 @@ http://flexbox.help/
 #### Fonts
 https://fonts.google.com/
 
+### Debugging
+https://developers.google.com/web/tools/chrome-devtools/
+https://developers.google.com/web/tools/chrome-devtools/javascript/
 ### Design
 #### Gettting inspiration/ideas
 https://www.awwwards.com/
+
+### [Express](https://expressjs.com/)
 
 ### HTML
 #### Color code helps
@@ -67,15 +79,17 @@ https://html-color-codes.info/colors-from-image/ - Upload an image and get a col
 `:q!`  
 The `:` tells Vim to enter command mode, the `q` tells Vim to quit, and the `!` means you really mean it.
 
+### Hosting
+https://zeit.co/docs
+https://surge.sh/ - For front-end development
+
 ### JavaScript
 #### 'this' in JavaScript
 http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
 
 ### Pay to learn
 Resources that cost money (but may sometimes make content available for free). Sometimes paid courses are significantly higher quality than what's available for free. (Sometimes not.)
-
 https://egghead.io/
-
 
 ### Markdown  
 https://www.markdowntutorial.com/   
@@ -83,16 +97,18 @@ http://en.wikipedia.org/wiki/Markdown#Example
 http://spec.commonmark.org/dingus/  
 http://johnmacfarlane.net/babelmark2/faq.html  
 http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/  
-https://www.markdownguide.org  
+https://www.markdownguide.org
 
-### Node
+### Massive(https://dmfay.github.io/massive-js/)
+
+### [Node](https://nodejs.org/en/)
 [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/#anatomy-of-an-http-transaction)
 
 ### Practice Problems
 [Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
 [CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
 
-### React
+### [React](https://reactjs.org/docs/hello-world.html)
 #### Development Environment
 ##### Find what process is running the dev server at a specific port:
 If the dev server is running on port 3000:
@@ -112,12 +128,17 @@ Find the process ID in the PID column for COMMAND of "node". To kill that proces
 kill -9 <i>PID</i>
 </pre>
 
-### Redux
+### [Redux](https://redux.js.org/)
 https://hackernoon.com/redux-for-dummies-867f7aff7a2f
 https://github.com/james-carlson/react-redux-review
-
+https://github.com/DevMountain/redux-drills
+https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
+### Regex
+http://regexr.com/
 ### SVG Images
 http://svgpocketguide.com/book/
-
+### SQL
+https://www.sqlteaching.com/
+https://sqlbolt.com/
 ### Terminal 
 http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
