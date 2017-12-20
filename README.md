@@ -147,7 +147,7 @@ http://regexr.com/
 ### SVG
 http://svgpocketguide.com/book/
 ### SQL
-https://www.sqlteaching.com/
+https://www.sqlteaching.com/  
 https://sqlbolt.com/
 ### Terminal 
 http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
