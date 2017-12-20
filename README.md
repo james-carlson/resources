@@ -91,7 +91,7 @@ https://surge.sh/ - For front-end development
 
 ### JavaScript
 #### Reference
-
+Mozilla Developer Network (MDN) - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 #### Practice Problems
 [Codewars](https://codewars.com/) - "Achieve code mastery through challenge"  
 [CodeFights](https://codefights.com/) - Interview Practice, Challenges, Arcade, Head-to-Head, Company Bots, Tournaments
