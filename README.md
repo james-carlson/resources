@@ -22,6 +22,7 @@ In case they're helpful.
 * [SVG](#svg)
 * [SQL](#sql)
 * [Terminal](#terminal)
+* [Tools](#tools)
 
 ### Code Editors
 #### [VS Code](https://code.visualstudio.com/)
@@ -150,3 +151,5 @@ https://www.sqlteaching.com/
 https://sqlbolt.com/
 ### Terminal 
 http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
+### Tools
+https://caniuse.com/ - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
