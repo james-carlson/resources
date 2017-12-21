@@ -43,7 +43,7 @@ To switch between views, press ⇧⌘V in the editor. You can view the preview s
 * `Cmd ⌘` + `Shift ⇧ ` + `p` shows keyboard shortcuts.
 * Hold down option and arrow key to move an entire line up or down.  
 * Hold down option and click in multiple places to create multiple cursors.
-
+[Top](#topics)
 ### Code Environments
 https://repl.it (Online REPL, compiler, and IDE)  
 http://www.pythontutor.com/visualize.html (Includes languages other than Python, including JavaScript. Allows you to visualize code execution and see the control flow.)  
