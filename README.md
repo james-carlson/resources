@@ -101,8 +101,8 @@ Mozilla Developer Network (MDN) - https://developer.mozilla.org/en-US/docs/Web/J
 http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
 
 ### Pay to learn
-Resources that cost money (but may sometimes make content available for free). Sometimes paid courses are significantly higher quality than what's available for free. (Sometimes not.)
-https://egghead.io/
+Resources that cost money (but may sometimes make content available for free). Sometimes paid courses are significantly higher quality than what's available for free. (Sometimes not.)  
+* https://egghead.io/
 
 ### Markdown  
 https://www.markdowntutorial.com/   
