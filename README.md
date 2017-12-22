@@ -71,6 +71,10 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 #### Getting inspiration/ideas
 https://www.awwwards.com/
 
+#### Colors
+https://color.adobe.com/  
+https://coolors.co/
+
 ### [Express](https://expressjs.com/)
 
 ### HTML
