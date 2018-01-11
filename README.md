@@ -15,7 +15,8 @@ In case they're helpful. Find the topic below or use Ctrl/Cmd + F to find what y
 * [Pay to learn](#pay-to-learn)
 * [Massive](#massive)
 * [Markdown](#markdown)  
-* [Node](#node)
+* [Node](#node)  
+* [Open-source](#open-source)
 * [React](#react) 
 * [Redux](#redux)
 * [Regex](#regex)
@@ -121,6 +122,8 @@ https://www.markdownguide.org
 ### [Node](https://nodejs.org/en/)
 [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/#anatomy-of-an-http-transaction)
 
+### Open-source
+#### https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 
 ### [React](https://reactjs.org/docs/hello-world.html)
 #### Development Environment
