@@ -96,6 +96,8 @@ https://zeit.co/docs
 https://surge.sh/ - For front-end development
 
 ### JavaScript
+#### Big Picture / Historical Background
+[Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) - For bootcampers this might be helpful to understand the broader web development ecosystem and how it's changed since JavaScript was first introduced.  
 #### Reference
 Mozilla Developer Network (MDN) - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 #### Practice Problems
