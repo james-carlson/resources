@@ -1,9 +1,11 @@
 # resources 
-In case they're helpful. Find the topic below or use Ctrl/Cmd + F to find what you're looking for quickly. 
+In case they're helpful. Find the topic below or use Ctrl/Cmd + F to find what you're looking for quickly.  
+See also the list of [links to other resource lists](#other-resources).   
 
 ## *Topics*  
 * [Code Editors/IDEs](#code-editors)
 * [Code Environments](#code-environments)
+* [Computer Science](#computer-science)
 * [CSS](#css)
 * [Debugging](#debugging)
 * [Design](#design)
@@ -50,6 +52,9 @@ https://repl.it (Online REPL, compiler, and IDE)
 http://www.pythontutor.com/visualize.html (Includes languages other than Python, including JavaScript. Allows you to visualize code execution and see the control flow.)  
 https://www.getpostman.com/
 
+### Computer Science
+[Crash Course: Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - A PBS-produced Youtube series of ~12 minute videos, covering a range of computer science topics. *Not* a coding video series--rather, provides history and context and some background knowledge for people without CS degrees.  
+ 
 ### CSS  
 #### Flexbox
 http://geddski.teachable.com/p/flexbox-zombies  
@@ -110,6 +115,7 @@ http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-an
 ### Pay to learn
 Resources that cost money (but may sometimes make content available for free). Sometimes paid courses are significantly higher quality than what's available for free. (Sometimes not.)  
 * https://egghead.io/
+* https://www.pluralsight.com/ - $30/month for individual, although there is a free course each week (haven't verified this personally: https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 
 ### Markdown  
 https://www.markdowntutorial.com/   
@@ -162,4 +168,8 @@ https://sqlbolt.com/
 ### Terminal 
 http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
 ### Tools
-https://caniuse.com/ - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+https://caniuse.com/ - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.  
+
+## Other Resources
+I'd be kidding myself if I thought this repo had everything. Here's everything else:  
+* [The Top 66 Developer Resources from 2017](https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d) - Great Medium article w/ some awesome stuff! 
