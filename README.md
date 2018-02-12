@@ -68,6 +68,9 @@ https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
 #### Parallax
 http://scrollmagic.io/  
 
+#### Selectors  
+https://flukeout.github.io/
+
 #### Shapes
 https://css-tricks.com/examples/ShapesOfCSS/
 
