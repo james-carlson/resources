@@ -14,7 +14,7 @@ See also the list of [links to other resource lists](#other-resources).
 * [HTML](#html)
 * [Hosting](#hosting)
 * [JavaScript](#javascript)
-* [jQuery](#jQuery)
+* [jQuery](#jquery)
 * [Pay to learn](#pay-to-learn)
 * [Massive](#massive)
 * [Markdown](#markdown)  
