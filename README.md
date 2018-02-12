@@ -14,6 +14,7 @@ See also the list of [links to other resource lists](#other-resources).
 * [HTML](#html)
 * [Hosting](#hosting)
 * [JavaScript](#javascript)
+* [jQuery](#jQuery)
 * [Pay to learn](#pay-to-learn)
 * [Massive](#massive)
 * [Markdown](#markdown)  
@@ -84,11 +85,6 @@ https://coolors.co/
 
 ### [Express](https://expressjs.com/)
 
-### HTML
-#### Color code helps
-https://html-color-codes.info/  
-https://html-color-codes.info/colors-from-image/ - Upload an image and get a color code by clicking on any part of it.
-
 ### Git
 #### Commands
 ##### Change URL of remote 
@@ -96,6 +92,11 @@ https://html-color-codes.info/colors-from-image/ - Upload an image and get a col
 ##### When git opens Vim and asks for a commit message (and you want to exit)
 `:q!`  
 The `:` tells Vim to enter command mode, the `q` tells Vim to quit, and the `!` means you really mean it.
+
+### HTML
+#### Color code helps
+https://html-color-codes.info/  
+https://html-color-codes.info/colors-from-image/ - Upload an image and get a color code by clicking on any part of it.
 
 ### Hosting
 https://zeit.co/docs  
@@ -112,6 +113,8 @@ Mozilla Developer Network (MDN) - https://developer.mozilla.org/en-US/docs/Web/J
 
 #### 'this' in JavaScript
 http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
+
+### [jQuery](http://jquery.com/)
 
 ### Pay to learn
 Resources that cost money (but may sometimes make content available for free). Sometimes paid courses are significantly higher quality than what's available for free. (Sometimes not.)  
