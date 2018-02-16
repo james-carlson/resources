@@ -168,7 +168,8 @@ kill -9 <i>PID</i>
 ### Regex
 http://regexr.com/
 ### SVG
-http://svgpocketguide.com/book/
+http://svgpocketguide.com/book/  
+https://www.svgbackgrounds.com/  
 ### SQL
 https://www.sqlteaching.com/  
 https://sqlbolt.com/
