@@ -89,12 +89,15 @@ https://coolors.co/
 ### [Express](https://expressjs.com/)
 
 ### Git
-#### Commands
+#### Less Common Commands
 ##### Change URL of remote 
 <pre>git remote set url <em>https://url-of-repo</em></pre>
 ##### When git opens Vim and asks for a commit message (and you want to exit)
 `:q!`  
 The `:` tells Vim to enter command mode, the `q` tells Vim to quit, and the `!` means you really mean it.
+##### Git in Groups
+https://github.com/rasbandit/git-good-guide
+
 
 ### HTML
 #### Color code helps
