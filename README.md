@@ -148,6 +148,7 @@ https://www.markdownguide.org
 #### https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 
 ### [React](https://reactjs.org/docs/hello-world.html)
+[React Community Resources](https://blog.instabug.com/2018/02/react-blogs/) - Top React Blogs, Newsletters, and Online Communities  
 #### Development Environment
 ##### Find what process is running the dev server at a specific port:
 If the dev server is running on port 3000:
