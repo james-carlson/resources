@@ -189,3 +189,4 @@ https://caniuse.com/ - provides up-to-date browser support tables for support of
 I'd be kidding myself if I thought this repo had everything. Here's everything else:  
 * [The Top 66 Developer Resources from 2017](https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d) - Great Medium article w/ some awesome stuff! 
 * [DevDocs](https://devdocs.io/) - "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more."
+* [Zac Anger Doc](https://github.com/zacanger/doc) - Tons of cool resources.
