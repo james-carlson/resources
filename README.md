@@ -91,7 +91,7 @@ https://coolors.co/
 ### Git
 #### Less Common Commands
 ##### Change URL of remote 
-<pre>git remote set url <em>https://url-of-repo</em></pre>
+<pre>git remote set-url <em>https://url-of-repo</em></pre>
 ##### When git opens Vim and asks for a commit message (and you want to exit)
 `:q!`  
 The `:` tells Vim to enter command mode, the `q` tells Vim to quit, and the `!` means you really mean it.
