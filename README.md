@@ -57,7 +57,10 @@ https://www.getpostman.com/
 [Crash Course: Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - A PBS-produced Youtube series of ~12 minute videos, covering a range of computer science topics. *Not* a coding video series--rather, provides history and context and some background knowledge for people without CS degrees.  
 [Open Source Society University](https://github.com/ossu/computer-science) - "The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners." (their description, not mine)
  
-### CSS  
+### CSS
+#### CSS Grid  
+https://www.linkedin.com/pulse/css-grid-future-web-layouts-morten-rand-hendriksen - Overview
+
 #### Flexbox
 http://geddski.teachable.com/p/flexbox-zombies  
 http://flexbox.help/
