@@ -23,6 +23,7 @@ See also the list of [links to other resource lists](#other-resources).
 * [React](#react) 
 * [Redux](#redux)
 * [Regex](#regex)
+* [SASS](#sass)
 * [SVG](#svg)
 * [SQL](#sql)
 * [Terminal](#terminal)
@@ -178,6 +179,8 @@ kill -9 <i>PID</i>
 [A Dummy's Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
 ### Regex
 http://regexr.com/
+### SASS
+https://gist.github.com/Integralist/3931680 - Example of how to use keyframes syntax in SASS  
 ### SVG
 http://svgpocketguide.com/book/  
 https://www.svgbackgrounds.com/  
